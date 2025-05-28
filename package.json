@@ -1,9 +1,9 @@
 {
-  "name": "server-kita-backend",
+  "name": "Server-Kita-BackEnd_PBW_Kelompok_1",
   "version": "1.0.0",
   "type": "module",
   "main": "server.js",
-  "repository": "https://github.com/rafliafriza12/server-kita-backend.git",
+  "repository": "https://github.com/muhammadsyukri19/Server-Kita-BackEnd_PBW_Kelompok_1.git",
   "author": "muhammadsyukri19 <msyukri807@gmail.com>",
   "license": "MIT",
   "dependencies": {
